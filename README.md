@@ -7,7 +7,7 @@
 
 ## Telas
 
-<img src=""/>
+<img src=".github/telas.png"/>
 
 ## Requisitos funcionais
 
